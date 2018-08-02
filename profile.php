@@ -3,7 +3,7 @@ include("header.php"); // memanggil file header.php
 include("koneksi.php"); // memanggil file koneksi.php untuk koneksi ke database
 ?>
 	<div class="container">
-		<div class="content">
+		<div class="content"></br>
 			<h2>Data Mahasiswa &raquo; Biodata</h2>
 			<hr />
 			

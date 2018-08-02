@@ -114,17 +114,12 @@ include("koneksi.php"); // memanggil file koneksi.php untuk koneksi ke database
 					<div class="col-sm-2">
 						<select name="jurusan" class="form-control" required>
 							<option value=""> - Pilih Jurusan - </option>
-							<option value="Matematika">Matematika</option>
-							<option value="Kimia">Kimia</option>
-							<option value="Fisika">Fisika</option>
-							<option value="Biologi">Biologi</option>
-                            <option value="Agroteknologi">Agroteknologi</option>
-							<option value="Agribisnis">Agribisnis</option>
-							<option value="Ilmu & Teknologi Pangan">Ilmu & Teknologi Pangan</option>
-							<option value="Teknik Pertanian">Teknik Pertanian</option>
-							<option value="Biologi">Biologi</option>							
-							<option value="Ekonomi">Ekonomi</option>
-							<option value="Bisnis">Bisnis</option>
+							<option value="Teknik Informatika">Teknik Iformatika</option>
+							<option value="Sistem Infromasi">Sistem infromasi</option>
+							<option value="Komputerisasi Akutansi">Komputerisasi Akutansi</option>
+							<option value="Teknik Komputer">Teknik Komputer</option>
+                            <option value="Manajemen Informatika">Manajemen Informatika</option>
+							
 						</select>
 					</div>
 				</div>
@@ -133,10 +128,8 @@ include("koneksi.php"); // memanggil file koneksi.php untuk koneksi ke database
 					<div class="col-sm-2">
 						<select name="fakultas" class="form-control" required>
 							<option value=""> - Pilih Fakultas - </option>
-							<option value="MIPA">MIPA</option>
-							<option value="Pertanian">Pertanian</option>
-							<option value="Biologi">Biologi</option>
-							<option value="Ekonomi">Ekonomi</option>
+							<option value="Ilmu Komputer">ILMU KOMPUTER</option>
+						
 						</select>
 					</div>
 				</div>

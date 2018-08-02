@@ -1,6 +1,4 @@
-r.php
-
-	<script>
+<script>
 	$('.datepicker').datepicker({
 		format: 'dd-mm-yyyy',
 	})
